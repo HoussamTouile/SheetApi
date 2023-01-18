@@ -1,0 +1,1095 @@
+undefined:1
+<!DOCTYPE html>
+^
+
+SyntaxError: Unexpected token < in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (/home/colikjot/sheetApi/api.js:84:33)
+    at Request.self.callback (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:1154:10)
+    at Request.emit (events.js:198:13)
+    at IncomingMessage.<anonymous> (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:1076:12)
+    at Object.onceWrapper (events.js:286:20)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1145:12)
+/home/colikjot/sheetApi/api.js:84
+                var data = JSON.parse(response.body);
+                                               ^
+
+TypeError: Cannot read property 'body' of undefined
+    at Request._callback (/home/colikjot/sheetApi/api.js:84:48)
+    at self.callback (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.onRequestError (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:877:8)
+    at ClientRequest.emit (events.js:198:13)
+    at TLSSocket.socketErrorListener (_http_client.js:401:9)
+    at TLSSocket.emit (events.js:198:13)
+    at emitErrorNT (internal/streams/destroy.js:91:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:59:3)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+/home/colikjot/sheetApi/api.js:84
+                var data = JSON.parse(response.body);
+                                               ^
+
+TypeError: Cannot read property 'body' of undefined
+    at Request._callback (/home/colikjot/sheetApi/api.js:84:48)
+    at self.callback (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.onRequestError (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:877:8)
+    at ClientRequest.emit (events.js:198:13)
+    at TLSSocket.socketErrorListener (_http_client.js:401:9)
+    at TLSSocket.emit (events.js:198:13)
+    at emitErrorNT (internal/streams/destroy.js:91:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:59:3)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+/home/colikjot/sheetApi/api.js:84
+                var data = JSON.parse(response.body);
+                                               ^
+
+TypeError: Cannot read property 'body' of undefined
+    at Request._callback (/home/colikjot/sheetApi/api.js:84:48)
+    at self.callback (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.onRequestError (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:877:8)
+    at ClientRequest.emit (events.js:198:13)
+    at TLSSocket.socketErrorListener (_http_client.js:401:9)
+    at TLSSocket.emit (events.js:198:13)
+    at emitErrorNT (internal/streams/destroy.js:91:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:59:3)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+/home/colikjot/sheetApi/api.js:84
+                var data = JSON.parse(response.body);
+                                               ^
+
+TypeError: Cannot read property 'body' of undefined
+    at Request._callback (/home/colikjot/sheetApi/api.js:84:48)
+    at self.callback (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.onRequestError (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:877:8)
+    at ClientRequest.emit (events.js:198:13)
+    at TLSSocket.socketErrorListener (_http_client.js:401:9)
+    at TLSSocket.emit (events.js:198:13)
+    at emitErrorNT (internal/streams/destroy.js:91:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:59:3)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+/home/colikjot/sheetApi/api.js:84
+                var data = JSON.parse(response.body);
+                                               ^
+
+TypeError: Cannot read property 'body' of undefined
+    at Request._callback (/home/colikjot/sheetApi/api.js:84:48)
+    at self.callback (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.onRequestError (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:877:8)
+    at ClientRequest.emit (events.js:198:13)
+    at TLSSocket.socketErrorListener (_http_client.js:401:9)
+    at TLSSocket.emit (events.js:198:13)
+    at emitErrorNT (internal/streams/destroy.js:91:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:59:3)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+/home/colikjot/sheetApi/api.js:84
+                var data = JSON.parse(response.body);
+                                               ^
+
+TypeError: Cannot read property 'body' of undefined
+    at Request._callback (/home/colikjot/sheetApi/api.js:84:48)
+    at self.callback (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.onRequestError (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:877:8)
+    at ClientRequest.emit (events.js:198:13)
+    at TLSSocket.socketErrorListener (_http_client.js:401:9)
+    at TLSSocket.emit (events.js:198:13)
+    at emitErrorNT (internal/streams/destroy.js:91:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:59:3)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+/home/colikjot/sheetApi/api.js:84
+                var data = JSON.parse(response.body);
+                                               ^
+
+TypeError: Cannot read property 'body' of undefined
+    at Request._callback (/home/colikjot/sheetApi/api.js:84:48)
+    at self.callback (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.onRequestError (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:877:8)
+    at ClientRequest.emit (events.js:198:13)
+    at TLSSocket.socketErrorListener (_http_client.js:401:9)
+    at TLSSocket.emit (events.js:198:13)
+    at emitErrorNT (internal/streams/destroy.js:91:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:59:3)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+/home/colikjot/sheetApi/api.js:84
+                var data = JSON.parse(response.body);
+                                               ^
+
+TypeError: Cannot read property 'body' of undefined
+    at Request._callback (/home/colikjot/sheetApi/api.js:84:48)
+    at self.callback (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.onRequestError (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:877:8)
+    at ClientRequest.emit (events.js:198:13)
+    at TLSSocket.socketErrorListener (_http_client.js:401:9)
+    at TLSSocket.emit (events.js:198:13)
+    at emitErrorNT (internal/streams/destroy.js:91:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:59:3)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+/home/colikjot/sheetApi/api.js:84
+                var data = JSON.parse(response.body);
+                                               ^
+
+TypeError: Cannot read property 'body' of undefined
+    at Request._callback (/home/colikjot/sheetApi/api.js:84:48)
+    at self.callback (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.onRequestError (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:877:8)
+    at ClientRequest.emit (events.js:198:13)
+    at TLSSocket.socketErrorListener (_http_client.js:401:9)
+    at TLSSocket.emit (events.js:198:13)
+    at emitErrorNT (internal/streams/destroy.js:91:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:59:3)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+/home/colikjot/sheetApi/api.js:84
+                var data = JSON.parse(response.body);
+                                               ^
+
+TypeError: Cannot read property 'body' of undefined
+    at Request._callback (/home/colikjot/sheetApi/api.js:84:48)
+    at self.callback (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.onRequestError (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:877:8)
+    at ClientRequest.emit (events.js:198:13)
+    at TLSSocket.socketErrorListener (_http_client.js:401:9)
+    at TLSSocket.emit (events.js:198:13)
+    at emitErrorNT (internal/streams/destroy.js:91:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:59:3)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+/home/colikjot/sheetApi/api.js:84
+                var data = JSON.parse(response.body);
+                                               ^
+
+TypeError: Cannot read property 'body' of undefined
+    at Request._callback (/home/colikjot/sheetApi/api.js:84:48)
+    at self.callback (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.onRequestError (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:877:8)
+    at ClientRequest.emit (events.js:198:13)
+    at TLSSocket.socketErrorListener (_http_client.js:401:9)
+    at TLSSocket.emit (events.js:198:13)
+    at emitErrorNT (internal/streams/destroy.js:91:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:59:3)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+/home/colikjot/sheetApi/api.js:84
+                var data = JSON.parse(response.body);
+                                               ^
+
+TypeError: Cannot read property 'body' of undefined
+    at Request._callback (/home/colikjot/sheetApi/api.js:84:48)
+    at self.callback (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.onRequestError (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:877:8)
+    at ClientRequest.emit (events.js:198:13)
+    at TLSSocket.socketErrorListener (_http_client.js:401:9)
+    at TLSSocket.emit (events.js:198:13)
+    at emitErrorNT (internal/streams/destroy.js:91:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:59:3)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+/home/colikjot/sheetApi/api.js:84
+                var data = JSON.parse(response.body);
+                                               ^
+
+TypeError: Cannot read property 'body' of undefined
+    at Request._callback (/home/colikjot/sheetApi/api.js:84:48)
+    at self.callback (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.onRequestError (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:877:8)
+    at ClientRequest.emit (events.js:198:13)
+    at TLSSocket.socketErrorListener (_http_client.js:401:9)
+    at TLSSocket.emit (events.js:198:13)
+    at emitErrorNT (internal/streams/destroy.js:91:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:59:3)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+/home/colikjot/sheetApi/api.js:84
+                var data = JSON.parse(response.body);
+                                               ^
+
+TypeError: Cannot read property 'body' of undefined
+    at Request._callback (/home/colikjot/sheetApi/api.js:84:48)
+    at self.callback (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.onRequestError (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:877:8)
+    at ClientRequest.emit (events.js:198:13)
+    at TLSSocket.socketErrorListener (_http_client.js:401:9)
+    at TLSSocket.emit (events.js:198:13)
+    at emitErrorNT (internal/streams/destroy.js:91:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:59:3)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+/home/colikjot/sheetApi/api.js:84
+                var data = JSON.parse(response.body);
+                                               ^
+
+TypeError: Cannot read property 'body' of undefined
+    at Request._callback (/home/colikjot/sheetApi/api.js:84:48)
+    at self.callback (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.onRequestError (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:877:8)
+    at ClientRequest.emit (events.js:198:13)
+    at TLSSocket.socketErrorListener (_http_client.js:401:9)
+    at TLSSocket.emit (events.js:198:13)
+    at emitErrorNT (internal/streams/destroy.js:91:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:59:3)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+undefined:1
+<!DOCTYPE html>
+^
+
+SyntaxError: Unexpected token < in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (/home/colikjot/sheetApi/api.js:84:33)
+    at Request.self.callback (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:1154:10)
+    at Request.emit (events.js:198:13)
+    at IncomingMessage.<anonymous> (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:1076:12)
+    at Object.onceWrapper (events.js:286:20)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1145:12)
+undefined:1
+<!DOCTYPE html>
+^
+
+SyntaxError: Unexpected token < in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (/home/colikjot/sheetApi/api.js:84:33)
+    at Request.self.callback (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:1154:10)
+    at Request.emit (events.js:198:13)
+    at IncomingMessage.<anonymous> (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:1076:12)
+    at Object.onceWrapper (events.js:286:20)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1145:12)
+undefined:1
+<!DOCTYPE html>
+^
+
+SyntaxError: Unexpected token < in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (/home/colikjot/sheetApi/api.js:84:33)
+    at Request.self.callback (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:1154:10)
+    at Request.emit (events.js:198:13)
+    at IncomingMessage.<anonymous> (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:1076:12)
+    at Object.onceWrapper (events.js:286:20)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1145:12)
+undefined:1
+<!DOCTYPE html>
+^
+
+SyntaxError: Unexpected token < in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (/home/colikjot/sheetApi/api.js:84:33)
+    at Request.self.callback (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:1154:10)
+    at Request.emit (events.js:198:13)
+    at IncomingMessage.<anonymous> (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:1076:12)
+    at Object.onceWrapper (events.js:286:20)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1145:12)
+undefined:1
+<!DOCTYPE html>
+^
+
+SyntaxError: Unexpected token < in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (/home/colikjot/sheetApi/api.js:84:33)
+    at Request.self.callback (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:1154:10)
+    at Request.emit (events.js:198:13)
+    at IncomingMessage.<anonymous> (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:1076:12)
+    at Object.onceWrapper (events.js:286:20)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1145:12)
+undefined:1
+<!DOCTYPE html>
+^
+
+SyntaxError: Unexpected token < in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (/home/colikjot/sheetApi/api.js:84:33)
+    at Request.self.callback (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:1154:10)
+    at Request.emit (events.js:198:13)
+    at IncomingMessage.<anonymous> (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:1076:12)
+    at Object.onceWrapper (events.js:286:20)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1145:12)
+undefined:1
+<!DOCTYPE html>
+^
+
+SyntaxError: Unexpected token < in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (/home/colikjot/sheetApi/api.js:84:33)
+    at Request.self.callback (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:1154:10)
+    at Request.emit (events.js:198:13)
+    at IncomingMessage.<anonymous> (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:1076:12)
+    at Object.onceWrapper (events.js:286:20)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1145:12)
+undefined:1
+<!DOCTYPE html>
+^
+
+SyntaxError: Unexpected token < in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (/home/colikjot/sheetApi/api.js:84:33)
+    at Request.self.callback (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:1154:10)
+    at Request.emit (events.js:198:13)
+    at IncomingMessage.<anonymous> (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:1076:12)
+    at Object.onceWrapper (events.js:286:20)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1145:12)
+undefined:1
+<!DOCTYPE html>
+^
+
+SyntaxError: Unexpected token < in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (/home/colikjot/sheetApi/api.js:84:33)
+    at Request.self.callback (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:1154:10)
+    at Request.emit (events.js:198:13)
+    at IncomingMessage.<anonymous> (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:1076:12)
+    at Object.onceWrapper (events.js:286:20)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1145:12)
+undefined:1
+<!DOCTYPE html>
+^
+
+SyntaxError: Unexpected token < in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (/home/colikjot/sheetApi/api.js:84:33)
+    at Request.self.callback (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:1154:10)
+    at Request.emit (events.js:198:13)
+    at IncomingMessage.<anonymous> (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:1076:12)
+    at Object.onceWrapper (events.js:286:20)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1145:12)
+undefined:1
+<!DOCTYPE html>
+^
+
+SyntaxError: Unexpected token < in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (/home/colikjot/sheetApi/api.js:84:33)
+    at Request.self.callback (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:1154:10)
+    at Request.emit (events.js:198:13)
+    at IncomingMessage.<anonymous> (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:1076:12)
+    at Object.onceWrapper (events.js:286:20)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1145:12)
+undefined:1
+<!DOCTYPE html>
+^
+
+SyntaxError: Unexpected token < in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (/home/colikjot/sheetApi/api.js:84:33)
+    at Request.self.callback (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:1154:10)
+    at Request.emit (events.js:198:13)
+    at IncomingMessage.<anonymous> (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:1076:12)
+    at Object.onceWrapper (events.js:286:20)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1145:12)
+undefined:1
+<!DOCTYPE html>
+^
+
+SyntaxError: Unexpected token < in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (/home/colikjot/sheetApi/api.js:84:33)
+    at Request.self.callback (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:1154:10)
+    at Request.emit (events.js:198:13)
+    at IncomingMessage.<anonymous> (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:1076:12)
+    at Object.onceWrapper (events.js:286:20)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1145:12)
+undefined:1
+<!DOCTYPE html>
+^
+
+SyntaxError: Unexpected token < in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (/home/colikjot/sheetApi/api.js:84:33)
+    at Request.self.callback (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:1154:10)
+    at Request.emit (events.js:198:13)
+    at IncomingMessage.<anonymous> (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:1076:12)
+    at Object.onceWrapper (events.js:286:20)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1145:12)
+undefined:1
+<!DOCTYPE html>
+^
+
+SyntaxError: Unexpected token < in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (/home/colikjot/sheetApi/api.js:84:33)
+    at Request.self.callback (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:1154:10)
+    at Request.emit (events.js:198:13)
+    at IncomingMessage.<anonymous> (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:1076:12)
+    at Object.onceWrapper (events.js:286:20)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1145:12)
+undefined:1
+<!DOCTYPE html>
+^
+
+SyntaxError: Unexpected token < in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (/home/colikjot/sheetApi/api.js:84:33)
+    at Request.self.callback (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:1154:10)
+    at Request.emit (events.js:198:13)
+    at IncomingMessage.<anonymous> (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:1076:12)
+    at Object.onceWrapper (events.js:286:20)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1145:12)
+undefined:1
+<!DOCTYPE html>
+^
+
+SyntaxError: Unexpected token < in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (/home/colikjot/sheetApi/api.js:84:33)
+    at Request.self.callback (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:1154:10)
+    at Request.emit (events.js:198:13)
+    at IncomingMessage.<anonymous> (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:1076:12)
+    at Object.onceWrapper (events.js:286:20)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1145:12)
+undefined:1
+<!DOCTYPE html>
+^
+
+SyntaxError: Unexpected token < in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (/home/colikjot/sheetApi/api.js:84:33)
+    at Request.self.callback (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:1154:10)
+    at Request.emit (events.js:198:13)
+    at IncomingMessage.<anonymous> (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:1076:12)
+    at Object.onceWrapper (events.js:286:20)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1145:12)
+undefined:1
+<!DOCTYPE html>
+^
+
+SyntaxError: Unexpected token < in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (/home/colikjot/sheetApi/api.js:84:33)
+    at Request.self.callback (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:1154:10)
+    at Request.emit (events.js:198:13)
+    at IncomingMessage.<anonymous> (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:1076:12)
+    at Object.onceWrapper (events.js:286:20)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1145:12)
+undefined:1
+<!DOCTYPE html>
+^
+
+SyntaxError: Unexpected token < in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (/home/colikjot/sheetApi/api.js:84:33)
+    at Request.self.callback (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:1154:10)
+    at Request.emit (events.js:198:13)
+    at IncomingMessage.<anonymous> (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:1076:12)
+    at Object.onceWrapper (events.js:286:20)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1145:12)
+undefined:1
+<!DOCTYPE html>
+^
+
+SyntaxError: Unexpected token < in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (/home/colikjot/sheetApi/api.js:84:33)
+    at Request.self.callback (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:1154:10)
+    at Request.emit (events.js:198:13)
+    at IncomingMessage.<anonymous> (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:1076:12)
+    at Object.onceWrapper (events.js:286:20)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1145:12)
+undefined:1
+<!DOCTYPE html>
+^
+
+SyntaxError: Unexpected token < in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (/home/colikjot/sheetApi/api.js:84:33)
+    at Request.self.callback (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:1154:10)
+    at Request.emit (events.js:198:13)
+    at IncomingMessage.<anonymous> (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:1076:12)
+    at Object.onceWrapper (events.js:286:20)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1145:12)
+undefined:1
+<!DOCTYPE html>
+^
+
+SyntaxError: Unexpected token < in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (/home/colikjot/sheetApi/api.js:84:33)
+    at Request.self.callback (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:1154:10)
+    at Request.emit (events.js:198:13)
+    at IncomingMessage.<anonymous> (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:1076:12)
+    at Object.onceWrapper (events.js:286:20)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1145:12)
+undefined:1
+<!DOCTYPE html>
+^
+
+SyntaxError: Unexpected token < in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (/home/colikjot/sheetApi/api.js:84:33)
+    at Request.self.callback (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:1154:10)
+    at Request.emit (events.js:198:13)
+    at IncomingMessage.<anonymous> (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:1076:12)
+    at Object.onceWrapper (events.js:286:20)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1145:12)
+undefined:1
+<!DOCTYPE html>
+^
+
+SyntaxError: Unexpected token < in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (/home/colikjot/sheetApi/api.js:84:33)
+    at Request.self.callback (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:1154:10)
+    at Request.emit (events.js:198:13)
+    at IncomingMessage.<anonymous> (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:1076:12)
+    at Object.onceWrapper (events.js:286:20)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1145:12)
+undefined:1
+<!DOCTYPE html>
+^
+
+SyntaxError: Unexpected token < in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (/home/colikjot/sheetApi/api.js:84:33)
+    at Request.self.callback (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:1154:10)
+    at Request.emit (events.js:198:13)
+    at IncomingMessage.<anonymous> (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:1076:12)
+    at Object.onceWrapper (events.js:286:20)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1145:12)
+undefined:1
+<!DOCTYPE html>
+^
+
+SyntaxError: Unexpected token < in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (/home/colikjot/sheetApi/api.js:84:33)
+    at Request.self.callback (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:1154:10)
+    at Request.emit (events.js:198:13)
+    at IncomingMessage.<anonymous> (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:1076:12)
+    at Object.onceWrapper (events.js:286:20)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1145:12)
+undefined:1
+<!DOCTYPE html>
+^
+
+SyntaxError: Unexpected token < in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (/home/colikjot/sheetApi/api.js:84:33)
+    at Request.self.callback (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:1154:10)
+    at Request.emit (events.js:198:13)
+    at IncomingMessage.<anonymous> (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:1076:12)
+    at Object.onceWrapper (events.js:286:20)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1145:12)
+undefined:1
+<!DOCTYPE html>
+^
+
+SyntaxError: Unexpected token < in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (/home/colikjot/sheetApi/api.js:84:33)
+    at Request.self.callback (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:1154:10)
+    at Request.emit (events.js:198:13)
+    at IncomingMessage.<anonymous> (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:1076:12)
+    at Object.onceWrapper (events.js:286:20)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1145:12)
+undefined:1
+<!DOCTYPE html>
+^
+
+SyntaxError: Unexpected token < in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (/home/colikjot/sheetApi/api.js:84:33)
+    at Request.self.callback (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:1154:10)
+    at Request.emit (events.js:198:13)
+    at IncomingMessage.<anonymous> (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:1076:12)
+    at Object.onceWrapper (events.js:286:20)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1145:12)
+undefined:1
+<!DOCTYPE html>
+^
+
+SyntaxError: Unexpected token < in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (/home/colikjot/sheetApi/api.js:84:33)
+    at Request.self.callback (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:1154:10)
+    at Request.emit (events.js:198:13)
+    at IncomingMessage.<anonymous> (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:1076:12)
+    at Object.onceWrapper (events.js:286:20)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1145:12)
+undefined:1
+<!DOCTYPE html>
+^
+
+SyntaxError: Unexpected token < in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (/home/colikjot/sheetApi/api.js:84:33)
+    at Request.self.callback (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:1154:10)
+    at Request.emit (events.js:198:13)
+    at IncomingMessage.<anonymous> (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:1076:12)
+    at Object.onceWrapper (events.js:286:20)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1145:12)
+undefined:1
+<!DOCTYPE html>
+^
+
+SyntaxError: Unexpected token < in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (/home/colikjot/sheetApi/api.js:84:33)
+    at Request.self.callback (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:1154:10)
+    at Request.emit (events.js:198:13)
+    at IncomingMessage.<anonymous> (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:1076:12)
+    at Object.onceWrapper (events.js:286:20)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1145:12)
+undefined:1
+<!DOCTYPE html>
+^
+
+SyntaxError: Unexpected token < in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (/home/colikjot/sheetApi/api.js:84:33)
+    at Request.self.callback (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:1154:10)
+    at Request.emit (events.js:198:13)
+    at IncomingMessage.<anonymous> (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:1076:12)
+    at Object.onceWrapper (events.js:286:20)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1145:12)
+undefined:1
+<!DOCTYPE html>
+^
+
+SyntaxError: Unexpected token < in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (/home/colikjot/sheetApi/api.js:84:33)
+    at Request.self.callback (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:1154:10)
+    at Request.emit (events.js:198:13)
+    at IncomingMessage.<anonymous> (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:1076:12)
+    at Object.onceWrapper (events.js:286:20)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1145:12)
+undefined:1
+<!DOCTYPE html>
+^
+
+SyntaxError: Unexpected token < in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (/home/colikjot/sheetApi/api.js:84:33)
+    at Request.self.callback (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:1154:10)
+    at Request.emit (events.js:198:13)
+    at IncomingMessage.<anonymous> (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:1076:12)
+    at Object.onceWrapper (events.js:286:20)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1145:12)
+undefined:1
+<!DOCTYPE html>
+^
+
+SyntaxError: Unexpected token < in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (/home/colikjot/sheetApi/api.js:84:33)
+    at Request.self.callback (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:1154:10)
+    at Request.emit (events.js:198:13)
+    at IncomingMessage.<anonymous> (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:1076:12)
+    at Object.onceWrapper (events.js:286:20)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1145:12)
+undefined:1
+<!DOCTYPE html>
+^
+
+SyntaxError: Unexpected token < in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (/home/colikjot/sheetApi/api.js:84:33)
+    at Request.self.callback (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:1154:10)
+    at Request.emit (events.js:198:13)
+    at IncomingMessage.<anonymous> (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:1076:12)
+    at Object.onceWrapper (events.js:286:20)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1145:12)
+undefined:1
+<!DOCTYPE html>
+^
+
+SyntaxError: Unexpected token < in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (/home/colikjot/sheetApi/api.js:84:33)
+    at Request.self.callback (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:1154:10)
+    at Request.emit (events.js:198:13)
+    at IncomingMessage.<anonymous> (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:1076:12)
+    at Object.onceWrapper (events.js:286:20)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1145:12)
+undefined:1
+<!DOCTYPE html>
+^
+
+SyntaxError: Unexpected token < in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (/home/colikjot/sheetApi/api.js:84:33)
+    at Request.self.callback (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:1154:10)
+    at Request.emit (events.js:198:13)
+    at IncomingMessage.<anonymous> (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:1076:12)
+    at Object.onceWrapper (events.js:286:20)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1145:12)
+undefined:1
+<!DOCTYPE html>
+^
+
+SyntaxError: Unexpected token < in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (/home/colikjot/sheetApi/api.js:84:33)
+    at Request.self.callback (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:1154:10)
+    at Request.emit (events.js:198:13)
+    at IncomingMessage.<anonymous> (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:1076:12)
+    at Object.onceWrapper (events.js:286:20)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1145:12)
+undefined:1
+<!DOCTYPE html>
+^
+
+SyntaxError: Unexpected token < in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (/home/colikjot/sheetApi/api.js:84:33)
+    at Request.self.callback (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:1154:10)
+    at Request.emit (events.js:198:13)
+    at IncomingMessage.<anonymous> (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:1076:12)
+    at Object.onceWrapper (events.js:286:20)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1145:12)
+undefined:1
+<!DOCTYPE html>
+^
+
+SyntaxError: Unexpected token < in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (/home/colikjot/sheetApi/api.js:84:33)
+    at Request.self.callback (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:1154:10)
+    at Request.emit (events.js:198:13)
+    at IncomingMessage.<anonymous> (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:1076:12)
+    at Object.onceWrapper (events.js:286:20)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1145:12)
+undefined:1
+<!DOCTYPE html>
+^
+
+SyntaxError: Unexpected token < in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (/home/colikjot/sheetApi/api.js:84:33)
+    at Request.self.callback (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:1154:10)
+    at Request.emit (events.js:198:13)
+    at IncomingMessage.<anonymous> (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:1076:12)
+    at Object.onceWrapper (events.js:286:20)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1145:12)
+undefined:1
+<!DOCTYPE html>
+^
+
+SyntaxError: Unexpected token < in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (/home/colikjot/sheetApi/api.js:84:33)
+    at Request.self.callback (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:1154:10)
+    at Request.emit (events.js:198:13)
+    at IncomingMessage.<anonymous> (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:1076:12)
+    at Object.onceWrapper (events.js:286:20)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1145:12)
+undefined:1
+<!DOCTYPE html>
+^
+
+SyntaxError: Unexpected token < in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (/home/colikjot/sheetApi/api.js:84:33)
+    at Request.self.callback (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:1154:10)
+    at Request.emit (events.js:198:13)
+    at IncomingMessage.<anonymous> (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:1076:12)
+    at Object.onceWrapper (events.js:286:20)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1145:12)
+undefined:1
+<!DOCTYPE html>
+^
+
+SyntaxError: Unexpected token < in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (/home/colikjot/sheetApi/api.js:84:33)
+    at Request.self.callback (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:1154:10)
+    at Request.emit (events.js:198:13)
+    at IncomingMessage.<anonymous> (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:1076:12)
+    at Object.onceWrapper (events.js:286:20)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1145:12)
+undefined:1
+<!DOCTYPE html>
+^
+
+SyntaxError: Unexpected token < in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (/home/colikjot/sheetApi/api.js:84:33)
+    at Request.self.callback (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:1154:10)
+    at Request.emit (events.js:198:13)
+    at IncomingMessage.<anonymous> (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:1076:12)
+    at Object.onceWrapper (events.js:286:20)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1145:12)
+undefined:1
+<!DOCTYPE html>
+^
+
+SyntaxError: Unexpected token < in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (/home/colikjot/sheetApi/api.js:84:33)
+    at Request.self.callback (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:1154:10)
+    at Request.emit (events.js:198:13)
+    at IncomingMessage.<anonymous> (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:1076:12)
+    at Object.onceWrapper (events.js:286:20)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1145:12)
+undefined:1
+<!DOCTYPE html>
+^
+
+SyntaxError: Unexpected token < in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (/home/colikjot/sheetApi/api.js:84:33)
+    at Request.self.callback (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:1154:10)
+    at Request.emit (events.js:198:13)
+    at IncomingMessage.<anonymous> (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:1076:12)
+    at Object.onceWrapper (events.js:286:20)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1145:12)
+undefined:1
+<!DOCTYPE html>
+^
+
+SyntaxError: Unexpected token < in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (/home/colikjot/sheetApi/api.js:84:33)
+    at Request.self.callback (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:1154:10)
+    at Request.emit (events.js:198:13)
+    at IncomingMessage.<anonymous> (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:1076:12)
+    at Object.onceWrapper (events.js:286:20)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1145:12)
+undefined:1
+<!DOCTYPE html>
+^
+
+SyntaxError: Unexpected token < in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (/home/colikjot/sheetApi/api.js:84:33)
+    at Request.self.callback (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:1154:10)
+    at Request.emit (events.js:198:13)
+    at IncomingMessage.<anonymous> (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:1076:12)
+    at Object.onceWrapper (events.js:286:20)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1145:12)
+undefined:1
+<!DOCTYPE html>
+^
+
+SyntaxError: Unexpected token < in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (/home/colikjot/sheetApi/api.js:84:33)
+    at Request.self.callback (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:1154:10)
+    at Request.emit (events.js:198:13)
+    at IncomingMessage.<anonymous> (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:1076:12)
+    at Object.onceWrapper (events.js:286:20)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1145:12)
+undefined:1
+<!DOCTYPE html>
+^
+
+SyntaxError: Unexpected token < in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (/home/colikjot/sheetApi/api.js:84:33)
+    at Request.self.callback (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:1154:10)
+    at Request.emit (events.js:198:13)
+    at IncomingMessage.<anonymous> (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:1076:12)
+    at Object.onceWrapper (events.js:286:20)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1145:12)
+undefined:1
+<!DOCTYPE html>
+^
+
+SyntaxError: Unexpected token < in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (/home/colikjot/sheetApi/api.js:84:33)
+    at Request.self.callback (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:1154:10)
+    at Request.emit (events.js:198:13)
+    at IncomingMessage.<anonymous> (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:1076:12)
+    at Object.onceWrapper (events.js:286:20)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1145:12)
+undefined:1
+<!DOCTYPE html>
+^
+
+SyntaxError: Unexpected token < in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (/home/colikjot/sheetApi/api.js:84:33)
+    at Request.self.callback (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:1154:10)
+    at Request.emit (events.js:198:13)
+    at IncomingMessage.<anonymous> (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:1076:12)
+    at Object.onceWrapper (events.js:286:20)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1145:12)
+undefined:1
+<!DOCTYPE html>
+^
+
+SyntaxError: Unexpected token < in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (/home/colikjot/sheetApi/api.js:84:33)
+    at Request.self.callback (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:1154:10)
+    at Request.emit (events.js:198:13)
+    at IncomingMessage.<anonymous> (/home/colikjot/nodevenv/sheetApi/10/lib/node_modules/request/request.js:1076:12)
+    at Object.onceWrapper (events.js:286:20)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1145:12)
